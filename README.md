@@ -1,6 +1,8 @@
 # GildedRose-Refactoring-kata
 Gilded Rose Refactoring Kata
 
+fuente original: https://github.com/emilybache/GildedRose-Refactoring-Kata
+
 
 ======================================
 Gilded Rose Requirements Specification
